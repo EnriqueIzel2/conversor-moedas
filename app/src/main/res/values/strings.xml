@@ -2,4 +2,5 @@
     <string name="app_name">Conversor de Moedas</string>
     <string name="title_conversor_de_moedas">Conversor de moedas</string>
     <string name="subtitle">Digite o valor e escolha as moedas de conversão</string>
+    <string name="img_currency_flag">Currency Flag</string>
 </resources>
