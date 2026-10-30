@@ -45,6 +45,9 @@ dependencies {
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.lifecycle.viewmodel)
     implementation(libs.lifecycle.runtime)
+    implementation(libs.coil)
+    implementation(libs.coil.network.okhttp)
+    implementation(libs.coil.svg)
 
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)
